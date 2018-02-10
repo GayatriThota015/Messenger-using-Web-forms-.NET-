@@ -1,0 +1,9 @@
+\\hdd.niunt.niu.edu\dfsshare\6\Z1807846\Visual Studio 2013\Projects\ChatMessenger\ChatMessenger\ChatMessenger\bin\Debug\ChatMessenger.exe.config
+\\hdd.niunt.niu.edu\dfsshare\6\Z1807846\Visual Studio 2013\Projects\ChatMessenger\ChatMessenger\ChatMessenger\bin\Debug\ChatMessenger.exe
+\\hdd.niunt.niu.edu\dfsshare\6\Z1807846\Visual Studio 2013\Projects\ChatMessenger\ChatMessenger\ChatMessenger\bin\Debug\ChatMessenger.pdb
+\\hdd.niunt.niu.edu\dfsshare\6\Z1807846\Visual Studio 2013\Projects\ChatMessenger\ChatMessenger\ChatMessenger\obj\Debug\ChatMessenger.csprojResolveAssemblyReference.cache
+\\hdd.niunt.niu.edu\dfsshare\6\Z1807846\Visual Studio 2013\Projects\ChatMessenger\ChatMessenger\ChatMessenger\obj\Debug\ChatMessenger.Properties.Resources.resources
+\\hdd.niunt.niu.edu\dfsshare\6\Z1807846\Visual Studio 2013\Projects\ChatMessenger\ChatMessenger\ChatMessenger\obj\Debug\ChatMessenger.csproj.GenerateResource.Cache
+\\hdd.niunt.niu.edu\dfsshare\6\Z1807846\Visual Studio 2013\Projects\ChatMessenger\ChatMessenger\ChatMessenger\obj\Debug\ChatMessenger.exe
+\\hdd.niunt.niu.edu\dfsshare\6\Z1807846\Visual Studio 2013\Projects\ChatMessenger\ChatMessenger\ChatMessenger\obj\Debug\ChatMessenger.pdb
+\\hdd.niunt.niu.edu\dfsshare\6\Z1807846\Visual Studio 2013\Projects\ChatMessenger\ChatMessenger\ChatMessenger\obj\Debug\ChatMessenger.Form1.resources
